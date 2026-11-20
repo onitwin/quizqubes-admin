@@ -14,4 +14,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
 # quizqubes-admin
+
+This project was created entirely using Claude, with prompts and revisions.
+Claude had been shown all the API end points and was then prompted to create React based front end with full CRUD functionality. Revisions focused on updating colors and styling, and some changes to 'future proof' the UI for potential changes. Drop down menu was requested in two areas to limit options within database values.
